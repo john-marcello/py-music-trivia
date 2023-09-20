@@ -2,7 +2,7 @@ import json, random, string
 from html import unescape
 
 def load_data():
-    # load 5 randon questions and answers from json file
+    # load 5 random questions and answers from json file
     with open("data_pkg/source.json", "r", encoding="utf-8") as json_file:
         data = json.load(json_file)
         results = random.sample(data['results'], 5)

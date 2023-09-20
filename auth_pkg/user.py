@@ -1,5 +1,4 @@
 # register workflow
-
 def register(database):
     # prompt for username with validation logic
     while True:
@@ -22,7 +21,7 @@ def register(database):
             print(f"\nUser {username.capitalize()} successfully registered.\n")
             break
 
-
+# login workflow
 def login(database):
     # initialize authorized_user
     authorized_user = None  
@@ -52,6 +51,7 @@ def login(database):
 
     return authorized_user
 
+#logout workflow
 def logout(authorized_user):
     if authorized_user:
         print(f"\nGoodbye, {authorized_user.capitalize()}.")
