@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is not a wind instrument?",
+            "correct_answer": "Viola",
+            "incorrect_answers": [
+                "Oboe",
+                "Trombone",
+                "Duduk"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+            "correct_answer": "Figaro",
+            "incorrect_answers": [
+                "Angelo",
+                "Fernando",
+                "Dave"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who wrote the Sinead O`Connor hit &#039;Nothing Compares 2 U&#039;?",
+            "correct_answer": "Prince",
+            "incorrect_answers": [
+                "Michael Jackson",
+                "Cameo",
+                "Rick James"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who had a 1969 top 5 hit with the song,  &#039;A Boy Named Sue&#039;?",
+            "correct_answer": "Johnny Cash",
+            "incorrect_answers": [
+                "Bob Dylan",
+                "Willie Nelson",
+                "Kris Kristofferson"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+            "correct_answer": "Toto",
+            "incorrect_answers": [
+                "Foreigner",
+                "Steely Dan",
+                "Journey"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+            "correct_answer": "Eric Clapton",
+            "incorrect_answers": [
+                "Mark Knopfler",
+                "Jeff Beck",
+                "Jimmy Page"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of Pearl Jam?",
+            "correct_answer": "Eddie Vedder",
+            "incorrect_answers": [
+                "Ozzy Osbourne",
+                "Stone Gossard",
+                "Kurt Cobain"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+            "correct_answer": "Justin Bieber",
+            "incorrect_answers": [
+                "Selena Gomez",
+                "Ellie Goulding",
+                "The Weeknd"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many studio albums have the duo Daft Punk released?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "1",
+                "5",
+                "2"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country does the band Rammstein hail from?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Austria",
+                "Armenia",
+                "Belgium"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Where does the Mac part of the name Fleetwood Mac come from?",
+            "correct_answer": "John McVie",
+            "incorrect_answers": [
+                "Christine McVie",
+                "Mac McAnally",
+                "David Tennant"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of the band Coldplay?",
+            "correct_answer": "Chris Martin",
+            "incorrect_answers": [
+                "Chris Isaak",
+                "Chris Wallace",
+                "Chris Connelly"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many members are there in the band Nirvana?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "Two",
+                "Four",
+                "Five"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+            "correct_answer": "V",
+            "incorrect_answers": [
+                "X",
+                "III",
+                "IV"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?",
+            "correct_answer": "2 Chainz",
+            "incorrect_answers": [
+                "Kendrick Lamar",
+                "Future",
+                "Fatman Scoop"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+            "correct_answer": "Recess",
+            "incorrect_answers": [
+                "All is Fair in Love and Brostep",
+                "Rock N Roll (Will Take You to the Mountain)",
+                "Scary Monsters and Nice Sprites"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the name of singer Frank Ocean&#039;s second studio album, which was released on August 20, 2016?",
+            "correct_answer": "Blonde",
+            "incorrect_answers": [
+                "Brunette",
+                "Black",
+                "Burgundy"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Twitch streamer is the vocalist for Red Vox?",
+            "correct_answer": "Vinesauce",
+            "incorrect_answers": [
+                "The8BitDrummer",
+                "LIRIK",
+                "Sodapoppin"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which artist released the 2012 single &quot;Harlem Shake&quot;, which was used in numerous YouTube videos in 2013?",
+            "correct_answer": "Baauer",
+            "incorrect_answers": [
+                "RL Grime",
+                "NGHTMRE",
+                "Flosstradamus"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which brass instrument has the lowest pitch in an orchestra?",
+            "correct_answer": "Tuba",
+            "incorrect_answers": [
+                "Trumpet",
+                "Saxophone",
+                "Trombone"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Brian May was the guitarist for which band?",
+            "correct_answer": "Queen",
+            "incorrect_answers": [
+                "Pink Floyd",
+                "Rolling Stones",
+                "The Doors"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+            "correct_answer": "Cocaine",
+            "incorrect_answers": [
+                "Conan O&#039;Brien",
+                "Cobalt(II) carbonate",
+                "Coconut cream pie"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+            "correct_answer": "12",
+            "incorrect_answers": [
+                "19",
+                "21",
+                "25"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The &quot;K&quot; in &quot;K-Pop&quot; stands for which word?",
+            "correct_answer": "Korean",
+            "incorrect_answers": [
+                "Kenyan",
+                "Kazakhstan",
+                "Kuwaiti"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Rage Against the Machine&#039;s debut album?",
+            "correct_answer": "Rage Against the Machine",
+            "incorrect_answers": [
+                "Evil Empire",
+                "Bombtrack",
+                "The Battle Of Los Angeles"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+            "correct_answer": "Safety Dance",
+            "incorrect_answers": [
+                "Down Under",
+                "Who Can It Be Now?",
+                "It&#039;s a Mistake"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+            "correct_answer": "Bass Guitar",
+            "incorrect_answers": [
+                "Drums",
+                "Guitar",
+                "Keyboards"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In an orchestra, what is the lowest member of the brass family?",
+            "correct_answer": "Tuba",
+            "incorrect_answers": [
+                "Trombone",
+                "Contrabass",
+                "Bassoon"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Kanye West at 2009 VMA&#039;s interrupted which celebrity?",
+            "correct_answer": "Taylor Swift",
+            "incorrect_answers": [
+                "MF DOOM",
+                "Beyonce",
+                "Beck"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+            "correct_answer": "Daft Punk",
+            "incorrect_answers": [
+                "deadmau5",
+                "Disclosure",
+                "DJ Shadow"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+            "correct_answer": "The Cure",
+            "incorrect_answers": [
+                "The Smiths",
+                "Echo &amp; the Bunnymen",
+                "New Order"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Venus",
+                "Mars",
+                "Uranus"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+            "correct_answer": "Jamie Foxx",
+            "incorrect_answers": [
+                "Alec Baldwin",
+                "Dwayne Johnson",
+                " Bruce Willis"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What album did The Lumineers release in 2016?",
+            "correct_answer": "Cleopatra",
+            "incorrect_answers": [
+                "Winter",
+                "The Lumineers",
+                "Tracks From The Attic"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+            "correct_answer": "Panic! At the Disco",
+            "incorrect_answers": [
+                "Twenty One Pilots",
+                "My Chemical Romance",
+                "Fall Out Boy"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the best selling album of 2015?",
+            "correct_answer": "Adele, 25",
+            "incorrect_answers": [
+                "Fetty Wap, Fetty Wap",
+                "Taylor Swift, 1989",
+                "Justin Bieber, Purpose"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+            "correct_answer": "White Christmas",
+            "incorrect_answers": [
+                "Frosty the Snowman",
+                "Rudolph the Red-Nosed Reindeer",
+                "Here Comes Santa Claus"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+            "correct_answer": "Ludvig Van Beethoven",
+            "incorrect_answers": [
+                "Chief Keef",
+                "Wolfgang Amadeus Mozart",
+                "Johannes Brahms"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+            "correct_answer": "Robbie Williams",
+            "incorrect_answers": [
+                "Justin Timberlake",
+                "Harry Styles",
+                "Gary Barlow"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+            "correct_answer": "Blondie",
+            "incorrect_answers": [
+                "Paramore",
+                "Coldplay",
+                "The Police"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+            "correct_answer": "Dave Mustaine",
+            "incorrect_answers": [
+                "Rob Halford",
+                "Vince Neil",
+                "James Hetfield"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Doctor Jones&quot;, &quot;Turn Back Time&quot; and &quot;Barbie Girl&quot; were UK number ones for which Eurodance group?",
+            "correct_answer": "Aqua",
+            "incorrect_answers": [
+                "Vengaboys",
+                "Eiffel 65",
+                "Sash!"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+            "correct_answer": "American Pie",
+            "incorrect_answers": [
+                "Kentucky Rain",
+                "I Will Always Love You",
+                "Rock &#039;n&#039; Roll Suicide"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Whose albums included &quot;Back in Black&quot; and &quot;Ballbreaker&quot;?",
+            "correct_answer": "AC/DC",
+            "incorrect_answers": [
+                "Iron Maiden",
+                "Black Sabbath",
+                "Metallica"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+            "correct_answer": "Red Hot Chilli Peppers",
+            "incorrect_answers": [
+                "Green Day",
+                "Linkin Park",
+                "Foo Fighters"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many strings are there on a cello?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "6",
+                "8"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What Led Zeppelin album contains &quot;Stairway to Heaven&quot;?",
+            "correct_answer": "Led Zeppelin IV",
+            "incorrect_answers": [
+                "Houses of the Holy",
+                "Physical Graffiti",
+                "Led Zeppelin III"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Hallelujah&quot; is a song written by which Canadian recording artist?",
+            "correct_answer": "Leonard Cohen",
+            "incorrect_answers": [
+                "Kory Lefkowits",
+                "Ryan Letourneau ",
+                "Justin Bieber "
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these are NOT a Men at Work song?",
+            "correct_answer": "Basket Case",
+            "incorrect_answers": [
+                "Dr. Heckyll and Mr. Jive",
+                "Who Can It Be Now?",
+                "Be Good Johnny"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is an album by punk rock band Anti-Flag?",
+            "correct_answer": "For Blood And Empire",
+            "incorrect_answers": [
+                "Infinity On High",
+                "21st Century Breakdown",
+                "No Pads, No Helmets...Just Balls"
+            ]
+        }
+    ]
+}

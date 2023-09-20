@@ -1,0 +1,605 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+            "correct_answer": "Figaro",
+            "incorrect_answers": [
+                "Angelo",
+                "Fernando",
+                "Dave"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
+            "correct_answer": "Snow",
+            "incorrect_answers": [
+                "Rain",
+                "Hail",
+                "Sleet"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
+            "correct_answer": "Toto",
+            "incorrect_answers": [
+                "Foreigner",
+                "Steely Dan",
+                "Journey"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+            "correct_answer": "N.W.A",
+            "incorrect_answers": [
+                "Wu-Tang Clan",
+                "Run-D.M.C.",
+                "Beastie Boys"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which singer was featured in Jack &Uuml; (Skrillex &amp; Diplo)&#039;s 2015 song &#039;Where Are &Uuml; Now&#039;?",
+            "correct_answer": "Justin Bieber",
+            "incorrect_answers": [
+                "Selena Gomez",
+                "Ellie Goulding",
+                "The Weeknd"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the frontman of the band 30 Seconds to Mars?",
+            "correct_answer": "Jared Leto",
+            "incorrect_answers": [
+                "Gerard Way",
+                "Matthew Bellamy",
+                "Mike Shinoda"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which country does the band Rammstein hail from?",
+            "correct_answer": "Germany",
+            "incorrect_answers": [
+                "Austria",
+                "Armenia",
+                "Belgium"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of the band Coldplay?",
+            "correct_answer": "Chris Martin",
+            "incorrect_answers": [
+                "Chris Isaak",
+                "Chris Wallace",
+                "Chris Connelly"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many members are there in the band Nirvana?",
+            "correct_answer": "Three",
+            "incorrect_answers": [
+                "Two",
+                "Four",
+                "Five"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which member of the Foo Fighters was previously the drummer for Nirvana?",
+            "correct_answer": "Dave Grohl",
+            "incorrect_answers": [
+                "Taylor Hawkins",
+                "Nate Mendel",
+                "Chris Shiflett"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
+            "correct_answer": "Recess",
+            "incorrect_answers": [
+                "All is Fair in Love and Brostep",
+                "Rock N Roll (Will Take You to the Mountain)",
+                "Scary Monsters and Nice Sprites"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Finish these lyrics from the 2016 song &quot;Panda&quot; by Desiigner: &quot;I got broads in _______&quot;.",
+            "correct_answer": "Atlanta",
+            "incorrect_answers": [
+                "Savannah",
+                "Augusta",
+                "Marietta"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which brass instrument has the lowest pitch in an orchestra?",
+            "correct_answer": "Tuba",
+            "incorrect_answers": [
+                "Trumpet",
+                "Saxophone",
+                "Trombone"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Brian May was the guitarist for which band?",
+            "correct_answer": "Queen",
+            "incorrect_answers": [
+                "Pink Floyd",
+                "Rolling Stones",
+                "The Doors"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song &quot;Paper Planes&quot;?",
+            "correct_answer": "M.I.A.",
+            "incorrect_answers": [
+                "K.I.A.",
+                "C.I.A.",
+                "A.I.A."
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the subject of the 2014 song &quot;CoCo&quot; by American rapper O. T. Genasis?",
+            "correct_answer": "Cocaine",
+            "incorrect_answers": [
+                "Conan O&#039;Brien",
+                "Cobalt(II) carbonate",
+                "Coconut cream pie"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In Mean Girls, who has breasts that tell when it&#039;s raining?",
+            "correct_answer": "Karen Smith",
+            "incorrect_answers": [
+                "Gretchen Weiners",
+                "Janice Ian",
+                "Cady Heron"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Beatles album does NOT feature any of the band members on it&#039;s cover?",
+            "correct_answer": "The Beatles (White Album)",
+            "incorrect_answers": [
+                "Rubber Soul",
+                "Abbey Road",
+                "Magical Mystery Tour"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+            "correct_answer": "Duran Duran",
+            "incorrect_answers": [
+                "The Cure",
+                "New Order",
+                "Depeche Mode"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In an orchestra, what is the lowest member of the brass family?",
+            "correct_answer": "Tuba",
+            "incorrect_answers": [
+                "Trombone",
+                "Contrabass",
+                "Bassoon"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Kanye West at 2009 VMA&#039;s interrupted which celebrity?",
+            "correct_answer": "Taylor Swift",
+            "incorrect_answers": [
+                "MF DOOM",
+                "Beyonce",
+                "Beck"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "According to the American rapper Nelly, what should you do when its hot in here?",
+            "correct_answer": "Take off all your clothes",
+            "incorrect_answers": [
+                "Take a cool shower",
+                "Drink some water",
+                "Go skinny dipping"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The 2016 song &quot;Starboy&quot; by Canadian singer The Weeknd features which prominent electronic artist?",
+            "correct_answer": "Daft Punk",
+            "incorrect_answers": [
+                "deadmau5",
+                "Disclosure",
+                "DJ Shadow"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
+            "correct_answer": "The Cure",
+            "incorrect_answers": [
+                "The Smiths",
+                "Echo &amp; the Bunnymen",
+                "New Order"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
+            "correct_answer": "Earth",
+            "incorrect_answers": [
+                "Venus",
+                "Mars",
+                "Uranus"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Nirvana album had a naked baby on the cover?",
+            "correct_answer": "Nevermind",
+            "incorrect_answers": [
+                "Bleach",
+                "In Utero",
+                "Incesticide"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
+            "correct_answer": "Cinderella",
+            "incorrect_answers": [
+                "Belle",
+                "Snow White",
+                "Pocahontas"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
+            "correct_answer": "Watch the Throne",
+            "incorrect_answers": [
+                "Distant Relatives",
+                "What a Time to be Alive",
+                "Unfinished Business"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "In 2006, which band released their debut album &quot;A Fever You Can&#039;t Sweat Out&quot;?",
+            "correct_answer": "Panic! At the Disco",
+            "incorrect_answers": [
+                "Twenty One Pilots",
+                "My Chemical Romance",
+                "Fall Out Boy"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What album did Bon Iver release in 2016?",
+            "correct_answer": "22, A Million",
+            "incorrect_answers": [
+                "Bon Iver, Bon Iver",
+                "Blood Bank EP",
+                "For Emma, Forever Ago"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+            "correct_answer": "Laura Brehm",
+            "incorrect_answers": [
+                "Anna Yvette ",
+                "Danyka Nadeau",
+                "Veela"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Daft Punk&#039;s first studio album?",
+            "correct_answer": "Homework",
+            "incorrect_answers": [
+                "Discovery",
+                "Random Access Memories",
+                "Human After All"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was the best selling album of 2015?",
+            "correct_answer": "Adele, 25",
+            "incorrect_answers": [
+                "Fetty Wap, Fetty Wap",
+                "Taylor Swift, 1989",
+                "Justin Bieber, Purpose"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of Green Day?",
+            "correct_answer": "Billie Joe Armstrong",
+            "incorrect_answers": [
+                "Mike Dirnt",
+                "Sean Hughes",
+                "Tr&eacute; Cool"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;The Singing Cowboy&quot; Gene Autry is credited with the first recording for all but which classic Christmas jingle?",
+            "correct_answer": "White Christmas",
+            "incorrect_answers": [
+                "Frosty the Snowman",
+                "Rudolph the Red-Nosed Reindeer",
+                "Here Comes Santa Claus"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
+            "correct_answer": "Ludvig Van Beethoven",
+            "incorrect_answers": [
+                "Chief Keef",
+                "Wolfgang Amadeus Mozart",
+                "Johannes Brahms"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+            "correct_answer": "Blondie",
+            "incorrect_answers": [
+                "Paramore",
+                "Coldplay",
+                "The Police"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The band Muse released their first album, Showbiz, in what year?",
+            "correct_answer": "1999",
+            "incorrect_answers": [
+                "1998",
+                "2000",
+                "2001"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+            "correct_answer": "Dave Mustaine",
+            "incorrect_answers": [
+                "Rob Halford",
+                "Vince Neil",
+                "James Hetfield"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Whose albums included &quot;Back in Black&quot; and &quot;Ballbreaker&quot;?",
+            "correct_answer": "AC/DC",
+            "incorrect_answers": [
+                "Iron Maiden",
+                "Black Sabbath",
+                "Metallica"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which punk rock band released hit songs such as &quot;Californication&quot;, &quot;Can&#039;t Stop&quot; and &quot;Under the Bridge&quot;?",
+            "correct_answer": "Red Hot Chilli Peppers",
+            "incorrect_answers": [
+                "Green Day",
+                "Linkin Park",
+                "Foo Fighters"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "How many strings are there on a cello?",
+            "correct_answer": "4",
+            "incorrect_answers": [
+                "5",
+                "6",
+                "8"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which music publication is often abbreviated to NME?",
+            "correct_answer": "New Musical Express",
+            "incorrect_answers": [
+                "New Metro Entertainment",
+                "Next Musical Enterprise",
+                "North Manchester Express"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What Led Zeppelin album contains &quot;Stairway to Heaven&quot;?",
+            "correct_answer": "Led Zeppelin IV",
+            "incorrect_answers": [
+                "Houses of the Holy",
+                "Physical Graffiti",
+                "Led Zeppelin III"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The Rush song &quot;YYZ&quot; derives its name from the IATA aiport identification code for which city?",
+            "correct_answer": "Toronto",
+            "incorrect_answers": [
+                "Vancouver",
+                "Ottawa",
+                "Calgary"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these are NOT a Men at Work song?",
+            "correct_answer": "Basket Case",
+            "incorrect_answers": [
+                "Dr. Heckyll and Mr. Jive",
+                "Who Can It Be Now?",
+                "Be Good Johnny"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
+            "correct_answer": "Nokia Tune",
+            "incorrect_answers": [
+                "Hello Moto [Motorola Ringtone]",
+                "Droid Ringtone",
+                "Microsoft Ringtone"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of Foo Fighters?",
+            "correct_answer": "Dave Grohl",
+            "incorrect_answers": [
+                "Dave Mustaine",
+                "James Hetfield",
+                "Little Red Riding Hood"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the lead singer of Arctic Monkeys?",
+            "correct_answer": "Alex Turner",
+            "incorrect_answers": [
+                "Jamie Cook",
+                "Matt Helders",
+                "Nick O&#039;Malley"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of Rivers Cuomo&#039;s wife?",
+            "correct_answer": "Kyoko Ito",
+            "incorrect_answers": [
+                "Yoko Ono",
+                "Kyary Pamyu Pamyu",
+                "LiSA"
+            ]
+        }
+    ]
+}
