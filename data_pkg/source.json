@@ -5,6 +5,18 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
+            "question": "What is not a wind instrument?",
+            "correct_answer": "Viola",
+            "incorrect_answers": [
+                "Oboe",
+                "Trombone",
+                "Duduk"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
             "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
             "correct_answer": "Figaro",
             "incorrect_answers": [
@@ -17,36 +29,24 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Canadian reggae musician had a 1993 hit with the song &#039;Informer&#039;?",
-            "correct_answer": "Snow",
+            "question": "Which English guitarist has the nickname &quot;Slowhand&quot;?",
+            "correct_answer": "Eric Clapton",
             "incorrect_answers": [
-                "Rain",
-                "Hail",
-                "Sleet"
+                "Mark Knopfler",
+                "Jeff Beck",
+                "Jimmy Page"
             ]
         },
         {
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who had a 1983 hit with the song &#039;Africa&#039;?",
-            "correct_answer": "Toto",
+            "question": "Who is the lead singer of Pearl Jam?",
+            "correct_answer": "Eddie Vedder",
             "incorrect_answers": [
-                "Foreigner",
-                "Steely Dan",
-                "Journey"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
-            "correct_answer": "N.W.A",
-            "incorrect_answers": [
-                "Wu-Tang Clan",
-                "Run-D.M.C.",
-                "Beastie Boys"
+                "Ozzy Osbourne",
+                "Stone Gossard",
+                "Kurt Cobain"
             ]
         },
         {
@@ -65,24 +65,24 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Who is the frontman of the band 30 Seconds to Mars?",
-            "correct_answer": "Jared Leto",
+            "question": "The Red Hot Chili Pepper song &quot;Give It Away&quot; is from what album?",
+            "correct_answer": "Blood Sugar Sex Magik",
             "incorrect_answers": [
-                "Gerard Way",
-                "Matthew Bellamy",
-                "Mike Shinoda"
+                "One Hot Minute",
+                "By the Way",
+                "Stadium Arcadium"
             ]
         },
         {
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which country does the band Rammstein hail from?",
-            "correct_answer": "Germany",
+            "question": "How many studio albums have the duo Daft Punk released?",
+            "correct_answer": "4",
             "incorrect_answers": [
-                "Austria",
-                "Armenia",
-                "Belgium"
+                "1",
+                "5",
+                "2"
             ]
         },
         {
@@ -113,24 +113,36 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which member of the Foo Fighters was previously the drummer for Nirvana?",
-            "correct_answer": "Dave Grohl",
+            "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+            "correct_answer": "V",
             "incorrect_answers": [
-                "Taylor Hawkins",
-                "Nate Mendel",
-                "Chris Shiflett"
+                "X",
+                "III",
+                "IV"
             ]
         },
         {
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which of these songs by Skrillex features Fatman Scoop as a side artist?",
-            "correct_answer": "Recess",
+            "question": "Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?",
+            "correct_answer": "2 Chainz",
             "incorrect_answers": [
-                "All is Fair in Love and Brostep",
-                "Rock N Roll (Will Take You to the Mountain)",
-                "Scary Monsters and Nice Sprites"
+                "Kendrick Lamar",
+                "Future",
+                "Fatman Scoop"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?",
+            "correct_answer": "Sandstorm",
+            "incorrect_answers": [
+                "Dust Devil",
+                "Sirocco",
+                "Khamsin"
             ]
         },
         {
@@ -149,12 +161,12 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which brass instrument has the lowest pitch in an orchestra?",
-            "correct_answer": "Tuba",
+            "question": "Who is the lead singer of the British pop rock band Coldplay?",
+            "correct_answer": "Chris Martin",
             "incorrect_answers": [
-                "Trumpet",
-                "Saxophone",
-                "Trombone"
+                "Jonny Buckland",
+                "Guy Berryman",
+                "Will Champion"
             ]
         },
         {
@@ -197,12 +209,24 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In Mean Girls, who has breasts that tell when it&#039;s raining?",
-            "correct_answer": "Karen Smith",
+            "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+            "correct_answer": "12",
             "incorrect_answers": [
-                "Gretchen Weiners",
-                "Janice Ian",
-                "Cady Heron"
+                "19",
+                "21",
+                "25"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What was Rage Against the Machine&#039;s debut album?",
+            "correct_answer": "Rage Against the Machine",
+            "incorrect_answers": [
+                "Evil Empire",
+                "Bombtrack",
+                "The Battle Of Los Angeles"
             ]
         },
         {
@@ -221,6 +245,18 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
+            "question": "Which of these is the name of a song by Tears for Fears?",
+            "correct_answer": "Shout",
+            "incorrect_answers": [
+                "Scream",
+                "Yell",
+                "Shriek"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
             "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
             "correct_answer": "Duran Duran",
             "incorrect_answers": [
@@ -233,12 +269,24 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "In an orchestra, what is the lowest member of the brass family?",
-            "correct_answer": "Tuba",
+            "question": "Which one of these songs did the group &quot;Men At Work&quot; NOT make?",
+            "correct_answer": "Safety Dance",
             "incorrect_answers": [
-                "Trombone",
-                "Contrabass",
-                "Bassoon"
+                "Down Under",
+                "Who Can It Be Now?",
+                "It&#039;s a Mistake"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Sting, the lead vocalist of The Police, primarily plays what instrument?",
+            "correct_answer": "Bass Guitar",
+            "incorrect_answers": [
+                "Drums",
+                "Guitar",
+                "Keyboards"
             ]
         },
         {
@@ -281,24 +329,12 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which 80s band is fronted by singer/guitarist Robert Smith?",
-            "correct_answer": "The Cure",
+            "question": "From which country did the song &quot;Gangnam Style&quot; originate from?",
+            "correct_answer": "South Korea",
             "incorrect_answers": [
-                "The Smiths",
-                "Echo &amp; the Bunnymen",
-                "New Order"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "According to a song by Belinda Carlisle, Heaven is a place on what?",
-            "correct_answer": "Earth",
-            "incorrect_answers": [
-                "Venus",
-                "Mars",
-                "Uranus"
+                "Japan",
+                "North Korea",
+                "China"
             ]
         },
         {
@@ -317,24 +353,24 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
-            "correct_answer": "Cinderella",
-            "incorrect_answers": [
-                "Belle",
-                "Snow White",
-                "Pocahontas"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "What collaborative album was released by Kanye West and Jay-Z in 2011?",
             "correct_answer": "Watch the Throne",
             "incorrect_answers": [
                 "Distant Relatives",
                 "What a Time to be Alive",
                 "Unfinished Business"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What album did The Lumineers release in 2016?",
+            "correct_answer": "Cleopatra",
+            "incorrect_answers": [
+                "Winter",
+                "The Lumineers",
+                "Tracks From The Attic"
             ]
         },
         {
@@ -359,18 +395,6 @@
                 "Bon Iver, Bon Iver",
                 "Blood Bank EP",
                 "For Emma, Forever Ago"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
-            "correct_answer": "Laura Brehm",
-            "incorrect_answers": [
-                "Anna Yvette ",
-                "Danyka Nadeau",
-                "Veela"
             ]
         },
         {
@@ -425,12 +449,12 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which classical composer wrote the &quot;Moonlight Sonata&quot;?",
-            "correct_answer": "Ludvig Van Beethoven",
+            "question": "Which former boy-band star released hit solo single &quot;Angels&quot; in 1997?",
+            "correct_answer": "Robbie Williams",
             "incorrect_answers": [
-                "Chief Keef",
-                "Wolfgang Amadeus Mozart",
-                "Johannes Brahms"
+                "Justin Timberlake",
+                "Harry Styles",
+                "Gary Barlow"
             ]
         },
         {
@@ -449,24 +473,60 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "The band Muse released their first album, Showbiz, in what year?",
-            "correct_answer": "1999",
-            "incorrect_answers": [
-                "1998",
-                "2000",
-                "2001"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "What is the frontman&#039;s name of the metal band Megadeth?",
             "correct_answer": "Dave Mustaine",
             "incorrect_answers": [
                 "Rob Halford",
                 "Vince Neil",
                 "James Hetfield"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which group performs the song &quot;Crash into Me&quot;?",
+            "correct_answer": "Dave Matthews Band",
+            "incorrect_answers": [
+                "Phish",
+                "The Grateful Dead",
+                "Destiny&#039;s Child"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of the following is not a studio album by the band Pink Floyd?",
+            "correct_answer": "Moving Pictures",
+            "incorrect_answers": [
+                "The Dark Side of the Moon",
+                "Wish You Were Here",
+                "Animals"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What 1970&#039;s American ballad referred to the 1959 plane crash as the &quot;the day the music died&quot;?",
+            "correct_answer": "American Pie",
+            "incorrect_answers": [
+                "Kentucky Rain",
+                "I Will Always Love You",
+                "Rock &#039;n&#039; Roll Suicide"
+            ]
+        },
+        {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "The &quot;British Invasion&quot; was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",
+            "correct_answer": "60&#039;s",
+            "incorrect_answers": [
+                "50&#039;s",
+                "40&#039;s",
+                "30&#039;s"
             ]
         },
         {
@@ -509,30 +569,6 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "Which music publication is often abbreviated to NME?",
-            "correct_answer": "New Musical Express",
-            "incorrect_answers": [
-                "New Metro Entertainment",
-                "Next Musical Enterprise",
-                "North Manchester Express"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What Led Zeppelin album contains &quot;Stairway to Heaven&quot;?",
-            "correct_answer": "Led Zeppelin IV",
-            "incorrect_answers": [
-                "Houses of the Holy",
-                "Physical Graffiti",
-                "Led Zeppelin III"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "The Rush song &quot;YYZ&quot; derives its name from the IATA aiport identification code for which city?",
             "correct_answer": "Toronto",
             "incorrect_answers": [
@@ -557,48 +593,12 @@
             "category": "Entertainment: Music",
             "type": "multiple",
             "difficulty": "easy",
-            "question": "&quot;Grande Valse&quot; is a phrase from the song &quot;Gran Vals&quot;. What is that song segment known as?",
-            "correct_answer": "Nokia Tune",
-            "incorrect_answers": [
-                "Hello Moto [Motorola Ringtone]",
-                "Droid Ringtone",
-                "Microsoft Ringtone"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
             "question": "Who is the lead singer of Foo Fighters?",
             "correct_answer": "Dave Grohl",
             "incorrect_answers": [
                 "Dave Mustaine",
                 "James Hetfield",
                 "Little Red Riding Hood"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "Who is the lead singer of Arctic Monkeys?",
-            "correct_answer": "Alex Turner",
-            "incorrect_answers": [
-                "Jamie Cook",
-                "Matt Helders",
-                "Nick O&#039;Malley"
-            ]
-        },
-        {
-            "category": "Entertainment: Music",
-            "type": "multiple",
-            "difficulty": "easy",
-            "question": "What is the name of Rivers Cuomo&#039;s wife?",
-            "correct_answer": "Kyoko Ito",
-            "incorrect_answers": [
-                "Yoko Ono",
-                "Kyary Pamyu Pamyu",
-                "LiSA"
             ]
         }
     ]
