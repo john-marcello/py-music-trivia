@@ -2,7 +2,7 @@ import json, requests
 
 # get the data from the API and write it to a JSON file
 # not necessary, could be more simply stored in variable
-# this was more of a thought experiment to learn
+# this was more of a thou   ght experiment to learn
 # how to write, rewrite, and read a JSON file
 
 def get_data():
